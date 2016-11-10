@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="color_000000">#000000</color>
+    <color name="color_00000000">#00000000</color>
+    <color name="color_101010">#101010</color>
+    <color name="color_3dadfb">#3dadfb</color>
+    <color name="color_3dfb92">#3dfb92</color>
+    <color name="color_603e4d">#603e4d</color>
+    <color name="color_acacac">#acacac</color>
+    <color name="color_fb6a3d">#fb6a3d</color>
+    <color name="color_ffd001">#ffd001</color>
+    <color name="color_ffffff">#ffffff</color>
+    <string name="app_name">iconLib</string>
+    <style name="Dialog" parent="android:style/Theme.Dialog">
+        <item name="android:background">#00000000</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>

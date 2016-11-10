@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    ]
+
+    <!--<android.support.v4.widget.SwipeRefreshLayout-->
+    <!--android:id="@+id/srl"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent">-->
+
+    <com.qbw.customview.RefreshLoadMoreLayout
+        android:id="@+id/refreshloadmore"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <GridView
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:id="@+id/gridview"
+            android:horizontalSpacing="2dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:numColumns="2"
+            android:listSelector="@color/color_00000000"
+            android:overScrollMode="never"
+            android:scrollbars="none"/>
+    </com.qbw.customview.RefreshLoadMoreLayout>
+
+    <!--</android.support.v4.widget.SwipeRefreshLayout>-->
+</RelativeLayout>

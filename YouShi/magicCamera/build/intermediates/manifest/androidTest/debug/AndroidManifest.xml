@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.seu.magiccamera.test" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="22" />
+
+    <instrumentation
+        android:name="android.test.InstrumentationTestRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for com.seu.magiccamera.test"
+        android:targetPackage="com.seu.magiccamera.test" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:supportsRtl="true" >
+        <uses-library android:name="android.test.runner" />
+
+        <activity android:name="com.seu.magiccamera.activity.VideoCoverActivity" />
+        <activity
+            android:name="com.seu.magiccamera.activity.CameraActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.seu.magiccamera.activity.ImageActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait" />
+        <activity android:name="com.seu.magiccamera.activity.EditVideoActivity" />
+        <activity android:name="com.seu.magiccamera.activity.ShareActivity" />
+
+        <service
+            android:name="com.joyme.recordlib.service.ScreenRecorderService"
+            android:enabled="true"
+            android:exported="false" />
+    </application>
+
+</manifest>

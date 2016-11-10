@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    ]
+
+    <!--<android.support.v4.widget.SwipeRefreshLayout-->
+    <!--android:id="@+id/srl"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent">-->
+
+    <com.qbw.customview.RefreshLoadMoreLayout
+        android:id="@+id/refreshloadmore"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <GridView
+            android:id="@+id/gridview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:horizontalSpacing="2dp"
+            android:listSelector="@color/color_00000000"
+            android:numColumns="2"
+            android:overScrollMode="never"
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:scrollbars="none" />
+    </com.qbw.customview.RefreshLoadMoreLayout>
+
+    <TextView
+        android:id="@+id/tv_no_huiyuan"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:layout_centerInParent="true"
+        android:text="你还不是会员，不能观看，10元看大片，你懂得....\n 点击购买"
+        android:textSize="15dp" />
+    <!--</android.support.v4.widget.SwipeRefreshLayout>-->
+</RelativeLayout>

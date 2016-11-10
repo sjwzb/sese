@@ -1,0 +1,286 @@
+[
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_camera_shutter.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\src\\main\\res\\drawable\\btn_camera_shutter.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\shapebg5.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\YouShi\\iconlib\\unspecified\\res\\drawable\\shapebg5.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_check_selector.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\YouShi\\iconlib\\unspecified\\res\\drawable\\bmob_update_button_check_selector.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_camera_album.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\src\\main\\res\\drawable\\btn_camera_album.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_thumb.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\src\\main\\res\\drawable\\seekbar_thumb.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\shapebg4.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\YouShi\\iconlib\\unspecified\\res\\drawable\\shapebg4.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_progress_light.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\src\\main\\res\\drawable\\seekbar_progress_light.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_normal.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\YouShi\\iconlib\\unspecified\\res\\drawable\\bmob_update_button_ok_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_normal.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\YouShi\\iconlib\\unspecified\\res\\drawable\\bmob_update_button_cancel_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_image_edit_adjust_contrast.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\src\\main\\res\\drawable\\selector_image_edit_adjust_contrast.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_tap.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\YouShi\\iconlib\\unspecified\\res\\drawable\\bmob_update_button_ok_bg_tap.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_image_edit_adjust_vibrance.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\src\\main\\res\\drawable\\selector_image_edit_adjust_vibrance.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_image_save.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\src\\main\\res\\drawable\\selector_image_save.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\take_filter_favorite_btn.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\src\\main\\res\\drawable\\take_filter_favorite_btn.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_image_fragment_skin.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\src\\main\\res\\drawable\\selector_image_fragment_skin.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_image_beauty.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\src\\main\\res\\drawable\\selector_image_beauty.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\shapebg3.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\YouShi\\iconlib\\unspecified\\res\\drawable\\shapebg3.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_filter_favorite_btn.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\src\\main\\res\\drawable\\selector_filter_favorite_btn.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_progress.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\src\\main\\res\\drawable\\seekbar_progress.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\selectbg2.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\YouShi\\iconlib\\unspecified\\res\\drawable\\selectbg2.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_image_edit_adjust_exposure.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\src\\main\\res\\drawable\\selector_image_edit_adjust_exposure.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_image_edit_adjust_saturation.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\src\\main\\res\\drawable\\selector_image_edit_adjust_saturation.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_tap.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\YouShi\\iconlib\\unspecified\\res\\drawable\\bmob_update_button_cancel_bg_tap.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_selector.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\YouShi\\iconlib\\unspecified\\res\\drawable\\bmob_update_button_ok_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_filter_selected.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\src\\main\\res\\drawable\\selector_filter_selected.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_wifi_disable.png",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\YouShi\\iconlib\\unspecified\\res\\drawable\\bmob_update_wifi_disable.png"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_focused.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\YouShi\\iconlib\\unspecified\\res\\drawable\\bmob_update_button_cancel_bg_focused.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\shapebg1.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\YouShi\\iconlib\\unspecified\\res\\drawable\\shapebg1.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_close_bg_selector.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\YouShi\\iconlib\\unspecified\\res\\drawable\\bmob_update_button_close_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_focused.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\YouShi\\iconlib\\unspecified\\res\\drawable\\bmob_update_button_ok_bg_focused.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_image_edit_adjust_hue.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\src\\main\\res\\drawable\\selector_image_edit_adjust_hue.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_image_adds.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\src\\main\\res\\drawable\\selector_image_adds.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_layout_filters_bar_close.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\src\\main\\res\\drawable\\btn_layout_filters_bar_close.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_image_edit_adjust_bright.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\src\\main\\res\\drawable\\selector_image_edit_adjust_bright.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\selectbg1.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\YouShi\\iconlib\\unspecified\\res\\drawable\\selectbg1.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_selector.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\YouShi\\iconlib\\unspecified\\res\\drawable\\bmob_update_button_cancel_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_dialog_bg.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\YouShi\\iconlib\\unspecified\\res\\drawable\\bmob_update_dialog_bg.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_image_edit_adjust_sharpness.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\src\\main\\res\\drawable\\selector_image_edit_adjust_sharpness.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_image_back.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\src\\main\\res\\drawable\\selector_image_back.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_thumb_light.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\src\\main\\res\\drawable\\seekbar_thumb_light.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_image_filter.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\src\\main\\res\\drawable\\selector_image_filter.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_image_edit.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\src\\main\\res\\drawable\\selector_image_edit.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_camera_filter.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\src\\main\\res\\drawable\\btn_camera_filter.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\shapebg2.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\YouShi\\iconlib\\unspecified\\res\\drawable\\shapebg2.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\myProject\\youshi\\YouShi\\magicCamera\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_image_frame.xml",
+        "source": "D:\\myProject\\youshi\\YouShi\\magicCamera\\src\\main\\res\\drawable\\selector_image_frame.xml"
+    }
+]

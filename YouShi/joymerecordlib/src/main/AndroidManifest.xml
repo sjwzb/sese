@@ -1,0 +1,12 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.joyme.recordlib">
+
+    <application
+        >
+        <service
+            android:name="com.joyme.recordlib.service.ScreenRecorderService"
+            android:enabled="true"
+            android:exported="false"></service>
+    </application>
+
+</manifest>

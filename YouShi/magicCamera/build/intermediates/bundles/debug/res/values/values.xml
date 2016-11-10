@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="filter_color_blue">#ff5cbadc</color>
+    <color name="filter_color_blue_dark">#3d5afe</color>
+    <color name="filter_color_blue_dark_dark">#1e3250</color>
+    <color name="filter_color_brown">#c8ca34</color>
+    <color name="filter_color_brown_dark">#e69138</color>
+    <color name="filter_color_brown_light">#ff9933</color>
+    <color name="filter_color_green_dark">#568f35</color>
+    <color name="filter_color_grey_light">#c4c4c4</color>
+    <color name="filter_color_orange">#fe9833</color>
+    <color name="filter_color_pink">#cc99cc</color>
+    <color name="filter_color_red">#ff6666</color>
+    <color name="filter_color_red_dark">#b93221</color>
+    <color name="filter_color_yellow_dark">#c8ca34</color>
+    <dimen name="seekbar_button_height">60.0dip</dimen>
+    <dimen name="seekbar_gradient_seek_bar_line_width">12.0px</dimen>
+    <dimen name="seekbar_layout_height">220.0dip</dimen>
+    <dimen name="seekbar_line_width">2.0px</dimen>
+    <dimen name="seekbar_margin_left">34.0dip</dimen>
+    <dimen name="seekbar_margin_right">34.0dip</dimen>
+    <dimen name="seekbar_nail_radius">8.0px</dimen>
+    <dimen name="seekbar_nail_stroke_width">2.0px</dimen>
+    <dimen name="seekbar_progress_height">3.0dip</dimen>
+    <dimen name="seekbar_thumb_offset">6.0dip</dimen>
+    <dimen name="seekbar_thumb_radius">24.0px</dimen>
+    <string name="app_name">MagicCamera</string>
+    <string name="edit_adds">Adds</string>
+    <string name="edit_beauty">Beauty</string>
+    <string name="edit_brightness">Bright</string>
+    <string name="edit_contrast">Contrast</string>
+    <string name="edit_edit">Edit</string>
+    <string name="edit_exposure">Exposure</string>
+    <string name="edit_filter">Filter</string>
+    <string name="edit_frame">Frame</string>
+    <string name="edit_hue">Hue</string>
+    <string name="edit_saturation">Saturation</string>
+    <string name="edit_sharpness">Sharpness</string>
+    <string name="edit_vibrance">Vibrance</string>
+    <string name="filter_Earlybird">EarlyBird</string>
+    <string name="filter_amaro">Amaro</string>
+    <string name="filter_antique">Antique</string>
+    <string name="filter_beauty">Beauty</string>
+    <string name="filter_blackcat">BlackCat</string>
+    <string name="filter_brannan">Brannan</string>
+    <string name="filter_brooklyn">Brooklyn</string>
+    <string name="filter_calm">Calm</string>
+    <string name="filter_cool">Cool</string>
+    <string name="filter_crayon">Crayon</string>
+    <string name="filter_emerald">Emerald</string>
+    <string name="filter_evergreen">Evergreen</string>
+    <string name="filter_fairytale">Fairytale</string>
+    <string name="filter_freud">Freud</string>
+    <string name="filter_healthy">Healthy</string>
+    <string name="filter_hefe">Hefe</string>
+    <string name="filter_hudson">Hudson</string>
+    <string name="filter_inkwell">Inkwell</string>
+    <string name="filter_kevin">Kevin</string>
+    <string name="filter_latte">Latte</string>
+    <string name="filter_lomo">Lomo</string>
+    <string name="filter_n1977">1977</string>
+    <string name="filter_nashville">Nashville</string>
+    <string name="filter_none">Original</string>
+    <string name="filter_nostalgia">Nostalgia</string>
+    <string name="filter_pixar">Pixar</string>
+    <string name="filter_rise">Rise</string>
+    <string name="filter_romance">Romance</string>
+    <string name="filter_sakura">Sakura</string>
+    <string name="filter_sierra">Sierra</string>
+    <string name="filter_sketch">Sketch</string>
+    <string name="filter_skinwhiten">SkinWhiten</string>
+    <string name="filter_sunrise">Sunrise</string>
+    <string name="filter_sunset">Sunset</string>
+    <string name="filter_sutro">Sutro</string>
+    <string name="filter_sweets">Sweets</string>
+    <string name="filter_tender">Tender</string>
+    <string name="filter_toastero">Toaster2</string>
+    <string name="filter_valencia">Valencia</string>
+    <string name="filter_walden">Walden</string>
+    <string name="filter_warm">Warm</string>
+    <string name="filter_whitecat">WhiteCat</string>
+    <string name="filter_xproii">XproII</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="ImageEditor_adjust_radiobutton">
+        <item name="android:layout_weight">1.0</item>
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:button">@null</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/selector_image_edit_yellow</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+    <style name="ImageEditor_radiobutton">
+        <item name="android:layout_weight">1.0</item>
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:button">@null</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/selector_image_edit</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+    <style name="SeekBar">
+        <item name="android:paddingLeft">15.0dip</item>
+        <item name="android:paddingRight">15.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">5.0dip</item>
+        <item name="android:layout_marginBottom">5.0dip</item>
+        <item name="android:maxHeight">@dimen/seekbar_progress_height</item>
+        <item name="android:progressDrawable">@drawable/seekbar_progress</item>
+        <item name="android:minHeight">@dimen/seekbar_progress_height</item>
+        <item name="android:thumb">@drawable/seekbar_thumb</item>
+        <item name="android:isScrollContainer">true</item>
+        <item name="android:fadeScrollbars">true</item>
+    </style>
+    <style name="SeekBar.Light" parent="@style/SeekBar">
+        <item name="android:layout_marginTop">0.0dip</item>
+        <item name="android:layout_marginBottom">0.0dip</item>
+        <item name="android:progressDrawable">@drawable/seekbar_progress_light</item>
+        <item name="android:thumb">@drawable/seekbar_thumb_light</item>
+    </style>
+</resources>
